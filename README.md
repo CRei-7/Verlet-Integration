@@ -1,3 +1,5 @@
-# Sample application of Verlet Integration to create a physics simulation
-# Left Mouse : Change between circular motion and horizontal motion
-# Right Mouse : Show/Hide nodes
+# Sample application of Verlet Integration
+Simple physics simulation <br/>
+Controls:<br/>
+Left Mouse - Change between circular motion and horizontal motion<br/>
+Right Mouse - Show/Hide nodes
