@@ -1,12 +1,12 @@
 ﻿  Source.cpp
-C:\proj\Verlet Integration\test\Source.cpp(7,50): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
-C:\proj\Verlet Integration\test\Source.cpp(7,43): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
-C:\proj\Verlet Integration\test\Source.cpp(23,45): warning C4305: 'initializing': truncation from 'double' to 'float'
-C:\proj\Verlet Integration\test\Source.cpp(37,32): warning C4305: 'initializing': truncation from 'double' to 'float'
-C:\proj\Verlet Integration\test\Source.cpp(65,29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-C:\proj\Verlet Integration\test\Source.cpp(68,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-C:\proj\Verlet Integration\test\Source.cpp(69,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-C:\proj\Verlet Integration\test\Source.cpp(72,31): warning C4305: 'initializing': truncation from 'double' to 'float'
-C:\proj\Verlet Integration\test\Source.cpp(72,46): warning C4305: 'initializing': truncation from 'double' to 'float'
-C:\proj\Verlet Integration\test\Source.cpp(72,64): warning C4305: 'initializing': truncation from 'double' to 'float'
-  test.vcxproj -> C:\proj\Verlet Integration\x64\Debug\test.exe
+C:\proj\Verlet-Integration\test\Source.cpp(7,50): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+C:\proj\Verlet-Integration\test\Source.cpp(7,43): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+C:\proj\Verlet-Integration\test\Source.cpp(23,45): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\proj\Verlet-Integration\test\Source.cpp(37,32): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\proj\Verlet-Integration\test\Source.cpp(65,29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\proj\Verlet-Integration\test\Source.cpp(68,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\proj\Verlet-Integration\test\Source.cpp(69,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\proj\Verlet-Integration\test\Source.cpp(72,31): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\proj\Verlet-Integration\test\Source.cpp(72,46): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\proj\Verlet-Integration\test\Source.cpp(72,64): warning C4305: 'initializing': truncation from 'double' to 'float'
+  test.vcxproj -> C:\proj\Verlet-Integration\x64\Debug\test.exe

@@ -2,7 +2,7 @@
 <Project>
   <ProjectOutputs>
     <ProjectOutput>
-      <FullPath>C:\proj\Verlet Integration\x64\Debug\test.exe</FullPath>
+      <FullPath>C:\proj\Verlet-Integration\x64\Debug\test.exe</FullPath>
     </ProjectOutput>
   </ProjectOutputs>
   <ContentFiles />
